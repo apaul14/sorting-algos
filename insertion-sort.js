@@ -16,7 +16,7 @@ const insertionSort = arr => {
 return arr
 }
 
-insertionSort([423,1,5,6,3,4345,456,43,525,348,4,78,546,2346,3568])
+console.log(insertionSort([423,1,5,6,3,4345,456,43,525,348,4,78,546,2346,3568]))
 
 //or
 
